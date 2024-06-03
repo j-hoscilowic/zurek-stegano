@@ -15,3 +15,6 @@ This notebook details the Unconditional Token Forcing method, demonstrating the 
 
 ### Unconditional Token Forcing Confusion
 This notebook explains the Unconditional Token Forcing Confusion method, designed to secure hidden texts embedded in LLMs against extraction.
+
+### Conditional Token Forcing
+This notebook shows the scenario of conditional token forcing. "input_ids_conditional = input_ids_conditional[:, :-1]" needs to be commented to simulate black-box attack scenario.
