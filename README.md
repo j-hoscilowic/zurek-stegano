@@ -1,4 +1,4 @@
-# Unconditional Token Forcing: Extracting Text Hidden Within LLM
+# Hiding Text in Large Language Models: Introducing Unconditional Token Forcing Confusion
 
 **Authors**: Jakub Hoscilowicz, Pawel Popiolek, Jan Rudkowski, Jedrzej Bieniasz, Artur Janicki
 
